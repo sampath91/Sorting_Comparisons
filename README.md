@@ -13,7 +13,7 @@ Following are the sorting algorithms implemented and compared:
 	b. For small subproblem size ( ), you must use insertion sort.
 	
 In cmd, run “python Project.py”. Following results are displayed in order below:
-1.	‘Heap sort’, ‘merge sort’, ‘quick sort’ and ‘quicksort with median of three and insertion sort’ for unsorted input
-2.	‘Heap sort’, ‘merge sort’, ‘quicksort with median of three and insertion sort’  and ‘quick sort’  for sorted input in ascending order
-3.	‘Heap sort’, ‘merge sort’, ‘quicksort with median of three and insertion sort’  and ‘quick sort’  for sorted input in descending order
+1.‘Heap sort’, ‘merge sort’, ‘quick sort’ and ‘quicksort with median of three and insertion sort’ for unsorted input
+2.‘Heap sort’, ‘merge sort’, ‘quicksort with median of three and insertion sort’  and ‘quick sort’  for sorted input in ascending order
+3.‘Heap sort’, ‘merge sort’, ‘quicksort with median of three and insertion sort’  and ‘quick sort’  for sorted input in descending order
 
